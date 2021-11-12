@@ -8,7 +8,7 @@
 - [数据科学入门.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/数据科学入门.pdf)
 - [机器学习周志华(超清带完整目录).pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/机器学习周志华(超清带完整目录).pdf)
 - [机器学习实战：基于Scikit-Learn和TensorFlow.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/机器学习实战：基于Scikit-Learn和TensorFlow.pdf)
-- [深入理解机器学习 从原理到算法. 北京：机械工业出版社2016_07.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/深入理解机器学习 从原理到算法. 北京：机械工业出版社2016_07.pdf)
+- [深入理解机器学习 从原理到算法. 北京：机械工业出版社2016_07.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/深入理解机器学习从原理到算法. 北京：机械工业出版社2016_07.pdf)
 
 其他书籍:
 
