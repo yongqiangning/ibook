@@ -16,7 +16,7 @@
 
 - [Git权威指南.pdf](https://github.com/yongqiangning/ibook/blob/master/其他书籍/Git权威指南.pdf)
 
-- [人人都是产品经理2.0——写给泛产品经理 - 苏杰.epub](https://github.com/yongqiangning/ibook/blob/master/其他书籍/人人都是产品经理2.0——写给泛产品经理 - 苏杰.epub)
+- [人人都是产品经理2.0——写给泛产品经理 - 苏杰.epub](./其他书籍/人人都是产品经理2.0——写给泛产品经理 - 苏杰.epub)
 
 - [人人都是产品经理2.0——写给泛产品经理.mobi](https://github.com/yongqiangning/ibook/blob/master/其他书籍/人人都是产品经理2.0——写给泛产品经理.mobi)
 
