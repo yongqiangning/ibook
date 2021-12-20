@@ -10,6 +10,14 @@
 - [机器学习实战：基于Scikit-Learn和TensorFlow.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/机器学习实战：基于Scikit-Learn和TensorFlow.pdf)
 - [深入理解机器学习 从原理到算法. 北京：机械工业出版社2016_07.pdf](https://github.com/yongqiangning/ibook/blob/master/机器学习/深入理解机器学习从原理到算法_北京：机械工业出版社2016_07.pdf)
 
+SQL书籍
+
+- [SQL基础教程(MICK).pdf](https://github.com/yongqiangning/ibook/blob/master/SQL/SQL基础教程.pdf)
+
+- [SQL进阶教程(MICK).pdf](https://github.com/yongqiangning/ibook/blob/master/SQL/SQL进阶.pdf)
+
+  
+
 其他书籍:
 
 - [GitHub入门与实践.pdf](https://github.com/yongqiangning/ibook/blob/master/其他书籍/GitHub入门与实践.pdf)
