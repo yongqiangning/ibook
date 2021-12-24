@@ -16,6 +16,10 @@ SQL书籍
 
 - [SQL进阶教程(MICK).pdf](https://github.com/yongqiangning/ibook/blob/master/SQL/SQL进阶.pdf)
 
+- [SQL必知必会（第4版）](https://github.com/yongqiangning/ibook/tree/master/SQL/SQL必知必会（第4版）)
+
+- 
+
   
 
 其他书籍:
