@@ -34,6 +34,8 @@ SQL书籍
 
 - [小岛经济学：鱼、美元和经济的故事.epub](https://github.com/yongqiangning/ibook/blob/master/其他书籍/小岛经济学：鱼、美元和经济的故事.epub)
 
+- [人类简史：从动物到上帝.epub](https://github.com/yongqiangning/ibook/blob/master/其他书籍/人类简史：从动物到上帝.epub)
+
   
   
   
